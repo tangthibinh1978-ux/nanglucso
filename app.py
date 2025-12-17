@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Tăng Thị Bính - Trường TH Vĩnh Hẩo - ĐT: 0942 526 159</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Tăng Thị Bính - Trường TH Vĩnh Hảo - ĐT: 0942 526 159</div>", unsafe_allow_html=True)
